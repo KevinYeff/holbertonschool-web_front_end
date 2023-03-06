@@ -232,7 +232,7 @@ ul.row {
 }
 
 .header {
-    padding: var(--section-header-padding);
+    padding: var(--header-padding);
 }
 
 .header-logo {
